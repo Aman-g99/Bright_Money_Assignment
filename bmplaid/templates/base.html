@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{% block title %}Plaid Login{% endblock %}</title>
+</head>
+<body>
+  <header>
+    <h1>Plaid Login</h1>
+      <a href="{% url 'logout' %}">logout</a>
+    
+  </header>
+  <hr>
+  <main>
+    {% block content %}
+    {% endblock %}
+  </main>
+  <hr>
+  <!-- <footer>
+    <a href="http://simpleisbetterthancomplex.com">simpleisbetterthancomplex.com</a>
+  </footer> -->
+</body>
+</html>
