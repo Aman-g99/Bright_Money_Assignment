@@ -1,5 +1,5 @@
 # brightMoney_assignment
- Plaid Assignment
+ Plaid Assignment (ZIP FILE IS ATTATCHED HAVING THE SCREEN RECORDING FOR THE WORKING API'S)
  
 ### Make a Test Environment
 ```
